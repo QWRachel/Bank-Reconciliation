@@ -1,4 +1,4 @@
-This Excel tool with VBA macros helps accountants reconcile bank statements and GL accounts. It includes test data on the last two tabs for demonstration purposes.
+Hi,I'm QWRachel. This Excel tool with VBA macros helps accountants reconcile bank statements and GL accounts. It includes test data on the last two tabs for demonstration purposes.
 
 Features
 Reconciliation: Automatically reconcile bank statements with GL accounts.
